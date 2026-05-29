@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartctringify",
+        "uuid": 2916839,
+        "checksum": "ms9me2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
